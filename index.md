@@ -2,24 +2,30 @@
 
 Aqui você terá informações sobre TI, informações sobre tendencias, tecnologias novas que estão no mercado como, Smartphones, SmartWatch, Notebooks, Ultrabooks entre outros. 
 
- [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-markdown
+Sites recomendados
+ 
+```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Tecmundo
 
-- Bulleted
-- List
+[Tecmundo](www.tecmundo.com.br)
 
-1. Numbered
-2. List
+Site sobre informações sobre tendencias.
+
+### Canal Tech
+
+[canaltech](canaltech.com.br)
+
+Site com noticias sobre tecnologias.
+
+### Techtudo
+
+[techtudo](www.techtudo.com.br)
+
+Site com informações sobre tendencias.
+
+
 
 **Bold** and _Italic_ and `Code` text
 
