@@ -8,7 +8,7 @@ Aqui você terá informações sobre TI, informações sobre tendencias, tecnolo
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+markdown
 Syntax highlighted code block
 
 # Header 1
