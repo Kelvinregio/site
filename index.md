@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Bem vindo ao blog infotech
 
-You can use the [editor on GitHub](https://github.com/Kelvinregio/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui você terá informações sobre TI, informações sobre tendencias, tecnologias novas que estão no mercado como, Smartphones, SmartWatch, Notebooks, Ultrabooks entre outros. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
